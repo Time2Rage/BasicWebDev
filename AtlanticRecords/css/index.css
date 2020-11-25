@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap");
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.sample div{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+footer {
+        font-family: 'Titillium Web', sans-serif;
+}
